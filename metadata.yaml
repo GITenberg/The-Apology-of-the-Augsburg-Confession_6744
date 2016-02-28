@@ -1,0 +1,27 @@
+_repo: The-Apology-of-the-Augsburg-Confession_6744
+creator:
+  author:
+    agent_name: Melanchthon, Philipp
+    aliases:
+    - Schwarzerd, Philipp
+    - Faventinus, Didymus
+    birthdate: 1497
+    deathdate: 1560
+    gutenberg_agent_id: '156'
+    url: http://www.gutenberg.org/2009/agents/156
+    wikipedia: http://en.wikipedia.org/wiki/Philipp_Melanchthon
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6744'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lutheran Church -- Catechisms'
+- !lcc 'BX'
+title: The Apology of the Augsburg Confession
+url: http://www.gutenberg.org/ebooks/6744
